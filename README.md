@@ -1,5 +1,5 @@
 # PIER14.NET GITHUB REPOSITORY
-[Link to website](http://pier14.net)
+[Link to website](https://www.pier14.net)
 
 [![Version v1.0](https://img.shields.io/badge/version-v1.0-brightgreen)](https://github.com/offsec64/pier14)
 
